@@ -6,5 +6,5 @@ license = "Apache-2.0"
 description = "SigmaOS component - part of multi-repository architecture"
 
 [lib]
-name = "apple-music-dl"
+name = "apple_music_dl"
 path = "src/lib.rs"
